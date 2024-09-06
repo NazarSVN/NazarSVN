@@ -3,3 +3,4 @@
 <h3 align="center">Computer engineering student from Ukraine 🇺🇦</h3>
 
 <img src="https://i.ibb.co/NC73GdL/Screenshot-1.png" alt="Microsoft certificate">
+<a href="https://ibb.co/1Qbn4t9"><img src="https://i.ibb.co/NC73GdL/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
