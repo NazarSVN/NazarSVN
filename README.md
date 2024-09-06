@@ -2,5 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer engineering student from Ukraine 🇺🇦</h3>
 
-<img src="https://i.ibb.co/NC73GdL/Screenshot-1.png" alt="Microsoft certificate">
-<a href="https://ibb.co/1Qbn4t9"><img src="https://i.ibb.co/NC73GdL/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
+![Image alt](https://github.com/NazarSVN/NazarSVN/blob/main/Screenshot_1.png)
